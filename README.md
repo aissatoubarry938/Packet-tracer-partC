@@ -1,4 +1,4 @@
-# Packet-tracer-part C
+# Packet-Tracer-Part C
 
 ## PART C
  To get started with Part C, we used packet tracer because time did not permit us to do it in class. We used the multilayer switches (Cisco 3560), since there is no 3750s on packet tracer. We established two switches for part C and provided three hosts for each switch. We made a connection from switch 1 to switch 2. Picture shown below.
